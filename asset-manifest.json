@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Master-Driving-School/practice-test-react/static/css/main.88ac3ada.css",
-    "main.js": "/Master-Driving-School/practice-test-react/static/js/main.1da715b2.js",
-    "static/js/787.76dabfe5.chunk.js": "/Master-Driving-School/practice-test-react/static/js/787.76dabfe5.chunk.js",
-    "index.html": "/Master-Driving-School/practice-test-react/index.html",
-    "main.88ac3ada.css.map": "/Master-Driving-School/practice-test-react/static/css/main.88ac3ada.css.map",
-    "main.1da715b2.js.map": "/Master-Driving-School/practice-test-react/static/js/main.1da715b2.js.map",
-    "787.76dabfe5.chunk.js.map": "/Master-Driving-School/practice-test-react/static/js/787.76dabfe5.chunk.js.map"
+    "main.css": "/practice-test-react/static/css/main.88ac3ada.css",
+    "main.js": "/practice-test-react/static/js/main.268c6a25.js",
+    "static/js/787.76dabfe5.chunk.js": "/practice-test-react/static/js/787.76dabfe5.chunk.js",
+    "index.html": "/practice-test-react/index.html",
+    "main.88ac3ada.css.map": "/practice-test-react/static/css/main.88ac3ada.css.map",
+    "main.268c6a25.js.map": "/practice-test-react/static/js/main.268c6a25.js.map",
+    "787.76dabfe5.chunk.js.map": "/practice-test-react/static/js/787.76dabfe5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88ac3ada.css",
-    "static/js/main.1da715b2.js"
+    "static/js/main.268c6a25.js"
   ]
 }
