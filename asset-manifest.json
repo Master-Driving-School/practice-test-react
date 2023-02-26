@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Master-Driving-School/practice-test-react.git/static/css/main.88ac3ada.css",
+    "main.js": "/Master-Driving-School/practice-test-react.git/static/js/main.5aab713d.js",
+    "static/js/787.76dabfe5.chunk.js": "/Master-Driving-School/practice-test-react.git/static/js/787.76dabfe5.chunk.js",
+    "index.html": "/Master-Driving-School/practice-test-react.git/index.html",
+    "main.88ac3ada.css.map": "/Master-Driving-School/practice-test-react.git/static/css/main.88ac3ada.css.map",
+    "main.5aab713d.js.map": "/Master-Driving-School/practice-test-react.git/static/js/main.5aab713d.js.map",
+    "787.76dabfe5.chunk.js.map": "/Master-Driving-School/practice-test-react.git/static/js/787.76dabfe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ac3ada.css",
+    "static/js/main.5aab713d.js"
+  ]
+}
